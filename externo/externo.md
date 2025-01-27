@@ -16,6 +16,7 @@
 ### HPC Wiki
 
 * [Homepage](https://hpc-wiki.info)
+* [Vídeo no YouTube não listado sobre MPI no canal da Wiki](https://www.youtube.com/watch?v=giaIDk2vPxU)
 
 
 ### Laboratório Nacional de Computação Científica
