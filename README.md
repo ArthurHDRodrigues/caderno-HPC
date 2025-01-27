@@ -53,6 +53,11 @@ No entanto, talvez você encontre alguma coisa interessante aqui.
 ### Linux Cluster Institute
 
 * [Homepage](https://linuxclustersinstitute.org/)
+* [Arquivo dos workshops anteriores](https://linuxclustersinstitute.org/archive/workshops/). Destaque para:
+  * Slides do Workshop Introdutório 2024 [aqui](https://linuxclustersinstitute.org/home/2024-lci-introductory-workshop/2024-lci-introductory-workshop-schedule/)
+  * Slides do Workshop Introdutório de 2023 [aqui](https://linuxclustersinstitute.org/2023-lci-introductory-workshop/workshop-schedule/);
+  * Slides do Workshop Intermediario de 2023 [aqui](https://linuxclustersinstitute.org/2023-lci-intermediate-workshop/2023-lci-intermediate-workshop-schedule/);
+
 
 ### Simpósio em Sistemas Computacionais de Alto Desempenho
 
