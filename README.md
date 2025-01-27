@@ -23,7 +23,12 @@ No entanto, talvez você encontre alguma coisa interessante aqui.
 
 ### Omni-Path
 
+* [Wikipedia](https://en.wikipedia.org/wiki/Omni-Path)
+* Criado pela Intel
+
 ### InfiniBand
+
+* [Wikipedia](https://en.wikipedia.org/wiki/InfiniBand)
 
 
 ## Recursos externos
@@ -62,6 +67,10 @@ No entanto, talvez você encontre alguma coisa interessante aqui.
 ### Simpósio em Sistemas Computacionais de Alto Desempenho
 
 * [Homepage](https://ce-acpad.github.io/sscad2024/)
+
+### Texas Advanced Computing Center
+
+* [Homepage](https://docs.tacc.utexas.edu/)
 
 ### The Art of HPC (Livros)
 Textbooks by Victor Eijkhout of TACC
