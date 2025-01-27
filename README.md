@@ -13,4 +13,5 @@ No entanto, talvez você encontre alguma coisa interessante aqui.
 * [Paralelismo](paralelo/paralelo.md)
 * [Rede](rede/rede.md)
 * [Sistema de arquivos](fs/fs.md)
+* [Risc-V](riscv/riscv.md)
 * [Recursos Externos](externo/externo.md)
