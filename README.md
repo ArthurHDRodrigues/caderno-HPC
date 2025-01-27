@@ -9,8 +9,6 @@ No entanto, talvez você encontre alguma coisa interessante aqui.
 
 
 
-
-
 ## Recursos externos
 
 ### Centro Nacional de Processamento de Alto Desempenho
@@ -26,6 +24,10 @@ No entanto, talvez você encontre alguma coisa interessante aqui.
 ### Linux Cluster Institute
 
 * [Homepage](https://linuxclustersinstitute.org/)
+
+### Simpósio em Sistemas Computacionais de Alto Desempenho
+
+* [Homepage](https://ce-acpad.github.io/sscad2024/)
 
 ### USP
 
