@@ -71,6 +71,7 @@ No entanto, talvez você encontre alguma coisa interessante aqui.
 ### Texas Advanced Computing Center
 
 * [Homepage](https://docs.tacc.utexas.edu/)
+* Artigo: [Best practices for the deployment and management of production HPC clusters](https://github.com/ArthurHDRodrigues/caderno-HPC/blob/main/README.md#artigos)
 
 ### The Art of HPC (Livros)
 Textbooks by Victor Eijkhout of TACC
