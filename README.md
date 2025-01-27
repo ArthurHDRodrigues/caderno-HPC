@@ -35,6 +35,8 @@ No entanto, talvez você encontre alguma coisa interessante aqui.
 
 ### Centro Nacional de Processamento de Alto Desempenho
 
+* [Cursos](https://www.cenapad.unicamp.br/treinamentos/ementas-e-inscricoes)
+  * [Apostila de MPI](https://www.cenapad.unicamp.br/treinamentos/apostilas/apostila_MPI.pdf)
 * [Material sobre HPC](http://www.cenapad-rj.lncc.br/tutoriais/materiais-hpc/)
 
 
@@ -55,6 +57,11 @@ No entanto, talvez você encontre alguma coisa interessante aqui.
 ### Simpósio em Sistemas Computacionais de Alto Desempenho
 
 * [Homepage](https://ce-acpad.github.io/sscad2024/)
+
+### The Art of HPC (Livros)
+Textbooks by Victor Eijkhout of TACC
+
+* [Homepage](https://theartofhpc.com/)
 
 ### USP
 
