@@ -11,5 +11,6 @@ No entanto, talvez você encontre alguma coisa interessante aqui.
 ## Conteúdo
 * [Paralelismo](paralelo/paralelo.md)
 * [Rede](rede/rede.md)
+* [Sistema de arquivos](fs/fs.md)
 * [Recursos Externos](externo/externo.md)
 
