@@ -8,12 +8,39 @@ Essas anotações são direcionadas para mim e não recomendo como um recurso in
 No entanto, talvez você encontre alguma coisa interessante aqui.
 
 
+## Paralelismo
+
+### Compartilhado
+
+* openMP
+  
+### Distribuido
+
+* MPI
+* Biblioteca MPI no Debian: [openmpi-bin](https://packages.debian.org/bookworm/openmpi-bin)
+
+## Rede
+
+### Omni-Path
+
+### InfiniBand
+
 
 ## Recursos externos
+
+### Artigos
+
+* [Best practices for the deployment and management of production HPC clusters](https://dl.acm.org/doi/10.1145/2063348.2063360)
+* [Containerization for High Performance Computing Systems: Survey and Prospects](https://ieeexplore.ieee.org/document/9985426)
 
 ### Centro Nacional de Processamento de Alto Desempenho
 
 * [Material sobre HPC](http://www.cenapad-rj.lncc.br/tutoriais/materiais-hpc/)
+
+
+### HPC Wiki
+
+* [Homepage](https://hpc-wiki.info)
 
 
 ### Laboratório Nacional de Computação Científica
