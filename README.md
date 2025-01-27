@@ -9,8 +9,8 @@ No entanto, talvez você encontre alguma coisa interessante aqui.
 
 
 ## Conteúdo
+* [Arquitetura de um cluster](arch/arch.md)
 * [Paralelismo](paralelo/paralelo.md)
 * [Rede](rede/rede.md)
 * [Sistema de arquivos](fs/fs.md)
 * [Recursos Externos](externo/externo.md)
-
