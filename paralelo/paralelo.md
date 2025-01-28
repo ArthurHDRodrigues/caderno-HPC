@@ -3,10 +3,12 @@
 ### Compartilhado
 
 * openMP
+* Tutorial do University of Colorado sobre [openMP com C](https://curc.readthedocs.io/en/latest/programming/OpenMP-C.html)
   
 ### Distribuido
 
 * MPI
+* Tutorial do University of Colorado sobre [MPI com C](https://curc.readthedocs.io/en/latest/programming/MPI-C.html)
 * Biblioteca MPI no Debian: [openmpi-bin](https://packages.debian.org/bookworm/openmpi-bin)
-* PAgina sobre MPI na [HPC Wiki](https://hpc-wiki.info/hpc/MPI)
+* Pagina sobre MPI na [HPC Wiki](https://hpc-wiki.info/hpc/MPI)
 * [MPI in small Bytes](https://www.youtube.com/watch?v=giaIDk2vPxU): Vídeo da HPC-Wiki sobre MPI
