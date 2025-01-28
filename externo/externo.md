@@ -41,11 +41,7 @@
 
 * [Homepage](https://docs.tacc.utexas.edu/)
 * Artigo: [Best practices for the deployment and management of production HPC clusters](https://github.com/ArthurHDRodrigues/caderno-HPC/blob/main/README.md#artigos)
-
-### The Art of HPC (Livros)
-Textbooks by Victor Eijkhout of TACC
-
-* [Homepage](https://theartofhpc.com/)
+* [The Art of HPC](https://theartofhpc.com/): Livros do Victor Eijkhout of TACC
 
 ### USP
 
