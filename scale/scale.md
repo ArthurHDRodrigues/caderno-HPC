@@ -1,7 +1,5 @@
 # Escalabilidade
 
-Artigo: [Speedup and efficiency of computational parallelization: A unifying approach and asymptotic analysis](https://www.sciencedirect.com/science/article/pii/S0743731523002058)
-
 ## Speedup
 
 **Speedup** é a razão entre o tempo serial $T_s$ e o tempo paralelo $T_p$ que um mesmo programa demora para rodar.
@@ -30,3 +28,6 @@ O grafico de $E(p)$ tende logaritmico.
 * [Wikipedia](https://pt.wikipedia.org/wiki/Lei_de_Amdahl)
 * Artigo: [Amdahl’s law for multithreaded multicore processors](https://www.sciencedirect.com/science/article/abs/pii/S0743731514001142)
 
+# Recursos externos
+* Artigo: [Speedup and efficiency of computational parallelization: A unifying approach and asymptotic analysis](https://www.sciencedirect.com/science/article/pii/S0743731523002058).
+* Pagina do HPC Wiki sobre [escalabilidade](https://hpc-wiki.info/hpc/Scaling), tem exemplos reais de speedup e eficiência.
