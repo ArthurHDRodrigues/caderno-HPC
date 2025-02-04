@@ -14,4 +14,5 @@ No entanto, talvez você encontre alguma coisa interessante aqui.
 * [Rede](rede/rede.md)
 * [Sistema de arquivos](fs/fs.md)
 * [Risc-V](riscv/riscv.md)
+* [Escalabilidade](scale/scale.md)
 * [Recursos Externos](externo/externo.md)
