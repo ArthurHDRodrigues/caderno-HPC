@@ -31,3 +31,4 @@ O grafico de $E(p)$ tende logaritmico.
 # Recursos externos
 * Artigo: [Speedup and efficiency of computational parallelization: A unifying approach and asymptotic analysis](https://www.sciencedirect.com/science/article/pii/S0743731523002058).
 * Pagina do HPC Wiki sobre [escalabilidade](https://hpc-wiki.info/hpc/Scaling), tem exemplos reais de speedup e eficiência.
+* Tutorial do HPC Wiki sobre [Benchmarking & Scaling](https://hpc-wiki.info/hpc/Benchmarking_%26_Scaling_Tutorial/Introduction).
