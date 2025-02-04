@@ -12,6 +12,10 @@
 * [Material sobre HPC](http://www.cenapad-rj.lncc.br/tutoriais/materiais-hpc/)
 
 
+## Coursera
+* [Introduction High Performance Computing](https://www.coursera.org/learn/introduction-high-performance-computing) por Colorado Boulder.
+
+
 ## HPC Wiki
 
 * [Homepage](https://hpc-wiki.info)
