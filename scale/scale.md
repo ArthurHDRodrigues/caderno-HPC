@@ -23,4 +23,6 @@ Note que $T_E \leq T_p$, logo $E(p) \leq 1$.
 
 O grafico de $E(p)$ tende logaritmico.
 
-![Gráfico](https://quickchart.io/chart?c={type:'line',data:{labels:[1,2,3,4,5,6,7,8,9,10],datasets:[{label:'Ideal',data:[1,1,1,1,1,1,1,1,1,1],borderColor:'blue'},{label:'Real',data:[1,.96,0.74,0.59,0.49,0.43,0.38,0.358,0.339,0.326,0.31],borderColor:'red'}]}})
+## Lei de Amdahl
+
+[Wikipedia](https://pt.wikipedia.org/wiki/Lei_de_Amdahl)
