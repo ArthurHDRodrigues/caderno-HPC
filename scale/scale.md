@@ -25,4 +25,6 @@ O grafico de $E(p)$ tende logaritmico.
 
 ## Lei de Amdahl
 
-[Wikipedia](https://pt.wikipedia.org/wiki/Lei_de_Amdahl)
+* [Wikipedia](https://pt.wikipedia.org/wiki/Lei_de_Amdahl)
+* Artigo: [Amdahl’s law for multithreaded multicore processors](https://www.sciencedirect.com/science/article/abs/pii/S0743731514001142)
+
