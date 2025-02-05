@@ -13,3 +13,7 @@
 
 ## Compile nodes
 * Nó especializado em compilar e não rodar binários;
+
+## Storage node
+
+[Slides do LCI sobre Storage](https://docs.google.com/presentation/d/10lAk-Q3zQympavKkEBcea-DiAoV_YPNT/edit)
