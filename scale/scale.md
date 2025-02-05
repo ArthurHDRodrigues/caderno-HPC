@@ -27,7 +27,7 @@ Se $B=0$, então $S(p)$ é linear em $p$, mas em alguns casos ela pode ser super
 $$E(p) = \frac{T_E}{T(p)}$$
 
 O tempo esperado $T_E$ assume que o speedup é linear. Ele pode ser:
-* $\frac{T(1)}{p}$, se o tamanho do problema é constante e se cresce o número de núcleos.
+* **Escalonamento forte**: $T_E = \frac{T(1)}{p}$, se o tamanho do problema é constante e se cresce o número de núcleos.
 
 $$
 E(p) = \frac{T_E}{T(p)} = \frac{T(1)}{pT(p)} = \frac{S(p)}{p}
@@ -36,7 +36,7 @@ $$
   Note que $T_E \leq T(p)$, logo $E(p) \leq 1$.
 
 
-* $T(1)$, se o tamanho do problema cresce linearmente em função do número de núcleos. 
+* **Escalonamento fraco**: $T(1)$, se o tamanho do problema cresce linearmente em função do número de núcleos. 
 
 $$
 E(p) = \frac{T_E}{T(p)} = S(p)
