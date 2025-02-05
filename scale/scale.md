@@ -18,7 +18,7 @@ $$
 S(p) = \frac{1}{B+\frac{1-B}{p}}
 $$
 
-Se $B=0$, então $S(p)$ é linear em $p$, mas em alguns casos ela pode ser superlinear, como analisado [nesse artigo](https://iopscience.iop.org/article/10.1088/1757-899X/1312/1/012009).
+Se $B=0$, então $S(p)$ é linear em $p$, mas em alguns casos ela pode ser superlinear, como analisado [nesse artigo](https://iopscience.iop.org/article/10.1088/1757-899X/1312/1/012009) e [nesse artigo](https://annals-csis.org/proceedings/2016/pliks/498.pdf).
 
 ## Eficiência
 
