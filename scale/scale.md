@@ -7,7 +7,7 @@ O tempo paralelo depende da quantidade $p$ de núcleos a aplicação está confi
 
 $$S(p) = \frac{T_s}{T_p}$$
 
-Idealmente, $S(p)$ é linear.
+Idealmente, $S(p)$ é linear, mas em alguns casos ela pode ser superlinear, como analisado [nesse artigo](https://iopscience.iop.org/article/10.1088/1757-899X/1312/1/012009).
 
 ## Eficiência
 
@@ -30,5 +30,6 @@ O grafico de $E(p)$ tende logaritmico.
 
 # Recursos externos
 * Artigo: [Speedup and efficiency of computational parallelization: A unifying approach and asymptotic analysis](https://www.sciencedirect.com/science/article/pii/S0743731523002058).
+* Artigo: [Understanding superlinear speedup in current HPC architectures](https://iopscience.iop.org/article/10.1088/1757-899X/1312/1/012009)
 * Pagina do HPC Wiki sobre [escalabilidade](https://hpc-wiki.info/hpc/Scaling), tem exemplos reais de speedup e eficiência.
 * Tutorial do HPC Wiki sobre [Benchmarking & Scaling](https://hpc-wiki.info/hpc/Benchmarking_%26_Scaling_Tutorial).
