@@ -22,15 +22,25 @@ Se $B=0$, então $S(p)$ é linear em $p$, mas em alguns casos ela pode ser super
 
 ## Eficiência
 
-**Eficiência** mede o tempo que um processador é usado.
-
-O tempo esperado $T_E$ assume que o speedup é linear. Ele pode ser:
-* $\frac{T(1)}{p}$, se o tamanho do problema é constante e se cresce o número de núcleos.
-* $T_s$, se o tamanho do problema cresce linearmente em função do número de núcleos. 
+**Eficiência** mede o tempo que um processador é usado e é dados pela seguinte formula, onde $T_E$ é o consumo de tempo esperado.
 
 $$E(p) = \frac{T_E}{T(p)}$$
 
-Note que $T_E \leq T(p)$, logo $E(p) \leq 1$.
+O tempo esperado $T_E$ assume que o speedup é linear. Ele pode ser:
+* $\frac{T(1)}{p}$, se o tamanho do problema é constante e se cresce o número de núcleos.
+
+$$
+E(p) = \frac{T_E}{T(p)} = \frac{T(1)}{pT(p)} = \frac{S(p)}{p}
+$$
+
+  Note que $T_E \leq T(p)$, logo $E(p) \leq 1$.
+
+
+* $T(1)$, se o tamanho do problema cresce linearmente em função do número de núcleos. 
+
+$$
+E(p) = \frac{T_E}{T(p)} = S(p)
+$$
 
 # Recursos externos
 * Artigo: [Speedup and efficiency of computational parallelization: A unifying approach and asymptotic analysis](https://www.sciencedirect.com/science/article/pii/S0743731523002058).
