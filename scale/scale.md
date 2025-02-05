@@ -2,31 +2,35 @@
 
 ## Speedup
 
-**Speedup** é a razão entre o tempo serial $T_s$ e o tempo paralelo $T_p$ que um mesmo programa demora para rodar.
-O tempo paralelo depende da quantidade $p$ de núcleos a aplicação está configurada para usar.
+**Speedup** é a razão entre o tempo serial $T(1)$ e o tempo paralelo $T(p)$ que um mesmo programa demora para rodar usando $p$ núcleos.
 
-$$S(p) = \frac{T_s}{T_p}$$
+$$S(p) = \frac{T(1)}{T(p)}$$
 
-Idealmente, $S(p)$ é linear, mas em alguns casos ela pode ser superlinear, como analisado [nesse artigo](https://iopscience.iop.org/article/10.1088/1757-899X/1312/1/012009).
+A lei de Amdahl ([Wiki](https://pt.wikipedia.org/wiki/Lei_de_Amdahl), [Artigo](https://www.sciencedirect.com/science/article/abs/pii/S0743731514001142)) propõe um speedup ideal. Seja $B\in [0,1]$ a fração do código que necessáriamente é sequêncial, então a lei de Amdahl afirma que
+
+$$
+T(p) = T(1)(B+\frac{1-B}{p}).
+$$
+
+Logo o speedup ideal é:
+
+$$
+S(p) = \frac{1}{B+\frac{1-B}{p}}
+$$
+
+Se $B=0$, então $S(p)$ é linear em $p$, mas em alguns casos ela pode ser superlinear, como analisado [nesse artigo](https://iopscience.iop.org/article/10.1088/1757-899X/1312/1/012009).
 
 ## Eficiência
 
 **Eficiência** mede o tempo que um processador é usado.
 
 O tempo esperado $T_E$ assume que o speedup é linear. Ele pode ser:
-* $\frac{T_s}{p}$, se o tamanho do problema é constante e se cresce o número de núcleos.
+* $\frac{T(1)}{p}$, se o tamanho do problema é constante e se cresce o número de núcleos.
 * $T_s$, se o tamanho do problema cresce linearmente em função do número de núcleos. 
 
-$$E(p) = \frac{T_E}{T_p}$$
+$$E(p) = \frac{T_E}{T(p)}$$
 
-Note que $T_E \leq T_p$, logo $E(p) \leq 1$.
-
-O grafico de $E(p)$ tende logaritmico.
-
-## Lei de Amdahl
-
-* [Wikipedia](https://pt.wikipedia.org/wiki/Lei_de_Amdahl)
-* Artigo: [Amdahl’s law for multithreaded multicore processors](https://www.sciencedirect.com/science/article/abs/pii/S0743731514001142)
+Note que $T_E \leq T(p)$, logo $E(p) \leq 1$.
 
 # Recursos externos
 * Artigo: [Speedup and efficiency of computational parallelization: A unifying approach and asymptotic analysis](https://www.sciencedirect.com/science/article/pii/S0743731523002058).
