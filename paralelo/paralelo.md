@@ -2,7 +2,7 @@
 
 ### Compartilhado
 
-Compartilha memória, threads. Uma ferramenta usada é openMP.
+Compartilha memória. As ferramentas mais usadas são openMP e pthreads.
 * Tutorial do University of Colorado sobre [openMP com C](https://curc.readthedocs.io/en/latest/programming/OpenMP-C.html)
 * No C, openMP é implementado com [pragmas](https://gcc.gnu.org/onlinedocs/cpp/Pragmas.html). 
   
