@@ -36,6 +36,9 @@
   * Slides do Workshop Intermediario de 2023 [aqui](https://linuxclustersinstitute.org/2023-lci-intermediate-workshop/2023-lci-intermediate-workshop-schedule/);
 
 
+## OpenHPC
+[Github](https://github.com/openhpc)
+
 ## Simpósio em Sistemas Computacionais de Alto Desempenho
 
 * [Homepage](https://ce-acpad.github.io/sscad2024/)
