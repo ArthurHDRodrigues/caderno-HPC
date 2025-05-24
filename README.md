@@ -9,11 +9,12 @@ No entanto, talvez você encontre alguma coisa interessante aqui.
 
 
 ## Conteúdo
-* [Arquitetura de um cluster](arch/arch.md)
-* [Paralelismo](paralelo/paralelo.md)
-* [Rede](rede/rede.md)
-* [Sistema de arquivos](fs/fs.md)
-* [Risc-V](riscv/riscv.md)
-* [DevOps](devops/devops.md)
-* [Escalabilidade](scale/scale.md)
-* [Recursos Externos](externo/externo.md)
+* [Arquitetura de um cluster](arch/README.md)
+* [Ferramentas](tools/README.md)
+* [Paralelismo](paralelo/README.md)
+* [Rede](rede/README.md)
+* [Sistema de arquivos](fs/README.md)
+* [Risc-V](riscv/README.md)
+* [DevOps](devops/README.md)
+* [Escalabilidade](scale/README.md)
+* [Recursos Externos](externo/README.md)
