@@ -36,16 +36,9 @@
   * Slides do Workshop Intermediario de 2023 [aqui](https://linuxclustersinstitute.org/2023-lci-intermediate-workshop/2023-lci-intermediate-workshop-schedule/);
 
 
-## OpenHPC
-[Github](https://github.com/openhpc)
-
 ## Simpósio em Sistemas Computacionais de Alto Desempenho
 
 * [Homepage](https://ce-acpad.github.io/sscad2024/)
-
-## Spack
-A Flexible Package Manager for HPC Software
-* [Homepage](https://computing.llnl.gov/projects/spack-hpc-package-manager)
 
 ## Texas Advanced Computing Center
 
@@ -57,8 +50,3 @@ A Flexible Package Manager for HPC Software
 
 * [HPC na USP](https://hpc.ime.usp.br)
 * [O que fazer antes de paralelizar (Goldman)](https://books-sol.sbc.org.br/index.php/sbc/catalog/view/109/490/763-1)
-
-
-## Warewulf
-* Ferramenta de provisionamento;
-* [Homepage](https://warewulf.org/).
