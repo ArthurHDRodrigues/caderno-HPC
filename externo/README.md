@@ -5,6 +5,9 @@
 * [Best practices for the deployment and management of production HPC clusters](https://dl.acm.org/doi/10.1145/2063348.2063360)
 * [Containerization for High Performance Computing Systems: Survey and Prospects](https://ieeexplore.ieee.org/document/9985426)
 
+## Awesome HPC
+* [Github repo](https://github.com/trevor-vincent/awesome-high-performance-computing)
+
 ## Centro Nacional de Processamento de Alto Desempenho
 
 * [Cursos](https://www.cenapad.unicamp.br/treinamentos/ementas-e-inscricoes)
