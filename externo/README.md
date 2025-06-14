@@ -49,6 +49,10 @@
 * Artigo: [Best practices for the deployment and management of production HPC clusters](https://github.com/ArthurHDRodrigues/caderno-HPC/blob/main/README.md#artigos)
 * [The Art of HPC](https://theartofhpc.com/): Livros do Victor Eijkhout of TACC
 
+## UFF
+
+*[Cloud & High-Performance Computing Laboratory (C+HPC)](https://cloud.ic.uff.br/index.php/pt/publicacoes/)
+
 ## USP
 
 * [HPC na USP](https://hpc.ime.usp.br)
