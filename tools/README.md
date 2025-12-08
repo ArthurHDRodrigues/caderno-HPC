@@ -2,6 +2,7 @@
 
 Essa é uma lista de ferramentas envolvendo HPC.
 
+* [CloysterHPC](https://github.com/viniciusferrao/cloysterhpc)
 * [GNU Guix](./guix.md)
 * [openHPC](https://github.com/openhpc)
 * [Singularity](https://docs.sylabs.io/guides/3.5/user-guide/introduction.html): Container hypervisor designed for HPC
