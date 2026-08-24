@@ -51,7 +51,7 @@
 
 ## UFF
 
-*[Cloud & High-Performance Computing Laboratory (C+HPC)](https://cloud.ic.uff.br/index.php/pt/publicacoes/)
+* [Cloud & High-Performance Computing Laboratory (C+HPC)](https://cloud.ic.uff.br/index.php/pt/publicacoes/)
 
 ## USP
 
