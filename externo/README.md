@@ -24,6 +24,9 @@
 * [Homepage](https://hpc-wiki.info)
 * [Vídeo no YouTube não listado sobre MPI no canal da Wiki](https://www.youtube.com/watch?v=giaIDk2vPxU)
 
+## HPS
+
+* [Pagina de curso "HPC system administration](https://hps.vi4io.org/teaching/autumn_term_2027/hpcsa)
 
 ## Laboratório Nacional de Computação Científica
 
