@@ -2,8 +2,11 @@
 
 Essa é uma lista de ferramentas envolvendo HPC.
 
+* Ansible
+  * [DevOps for HPC wiki](https://efposadac.github.io/ansible-tutorial/)
 * [CloysterHPC](https://github.com/viniciusferrao/cloysterhpc)
 * [GNU Guix](./guix.md)
+* [NCCS Software Provisioning](https://olcf.github.io/nccs-software-provisioning/index.html)
 * [openHPC](https://github.com/openhpc)
 * [OnDemand](https://github.com/OSC/ondemand): HPC web portal
 * [Singularity](https://docs.sylabs.io/guides/3.5/user-guide/introduction.html): Container hypervisor designed for HPC
